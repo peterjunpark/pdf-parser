@@ -2,8 +2,7 @@
 
 ## Topics:
 
-- Each char occupies 16 bits of memory
-- Character encoding
+- Character encoding (utf-16)
 - Immutability of strings
 - StringBuilder
 - Flyweight design pattern
